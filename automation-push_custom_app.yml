@@ -1,0 +1,12 @@
+commonfields:
+  id: b03614f6-b186-413c-84b1-092660f8f807
+  version: -1
+dockerimage: demisto/python3:3.8.5.10845
+name: push_custom_app
+pswd: ""
+runas: DBotWeakRole
+runonce: false
+script: ""
+scripttarget: 0
+tags: []
+type: python
